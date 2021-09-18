@@ -19,6 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiandp7&show_icons=true&locale=en&theme=react" alt="christiandp7" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiandp7&show_icons=true&locale=en&layout=compact&theme=react" alt="christiandp7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiandp7&show_icons=true&locale=en&layout=compact&theme=react" alt="christiandp7" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=christiandp7&layout=compact&theme=react" alt="christiandp7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=christiandp7&theme=react" alt="christiandp7" /></p>
