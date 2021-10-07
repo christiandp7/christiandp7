@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JAM-Stack projects**
 
-- 🌱 I’m currently learning **Solidity and blockchain programming**
+- 🌱 Learning **Solidity and blockchain programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiandp7&show_icons=true&locale=en&layout=compact&theme=react" alt="christiandp7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=christiandp7&theme=react" alt="christiandp7" /></p>
+
+<p>&nbsp;<a href="https://app.daily.dev/christiandp7"><img src="https://api.daily.dev/devcards/4c0413f8a03f4999bfb05d07c0a7bf3b.png?r=ldt" width="400" alt="Christian Diaz Portela's Dev Card"/></a></p>
